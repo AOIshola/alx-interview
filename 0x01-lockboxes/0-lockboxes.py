@@ -1,4 +1,4 @@
-#!/usr/bin/pytho3
+#!/usr/bin/python3
 """A module for Lockbox algorithm"""
 
 from collections import deque
