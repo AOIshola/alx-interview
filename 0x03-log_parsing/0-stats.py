@@ -51,7 +51,7 @@ try:
                 if line_count % 10 == 0:
                     print_stats()
 
-            except Exception:
+            except ValueError:
                 continue
 
 except KeyboardInterrupt:
